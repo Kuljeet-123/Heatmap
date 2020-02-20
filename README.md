@@ -1,5 +1,5 @@
 # Heat-Map
-<h3>Page Link: https://dereje1.github.io/Heat-Map/</h3>
+<h3>Page Link: https://kuljeet-123.github.io/Heatmap/</h3>
 <ul>
   <li>User Story: I can view a heat map with data represented both on the Y and X axis.</li>
   <li>User Story: Each cell is colored based its relationship to other data.</li>
